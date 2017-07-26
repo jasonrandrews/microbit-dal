@@ -14,10 +14,10 @@
   "author": "Joe Finney <j.finney@lancaster.ac.uk (mailto:j.finney@lancaster.ac.uk) >",
   "homepage": "https://developer.mbed.org/teams/Lancaster-University/code/microbit/",
   "dependencies": {
-    "mbed-classic": "jasonrandrews/mbed-classic#master",
-    "ble": "jasonrandrews/BLE_API#master",
-    "ble-nrf51822": "jasonrandrews/nrf51822#master",
-    "nrf51-sdk": "jasonrandrews/nrf51-sdk#master"
+    "mbed-classic": "jasonrandrews/mbed-classic",
+    "ble": "jasonrandrews/BLE_API",
+    "ble-nrf51822": "jasonrandrews/nrf51822",
+    "nrf51-sdk": "jasonrandrews/nrf51-sdk"
   },
   "extraIncludes": [
     "inc"

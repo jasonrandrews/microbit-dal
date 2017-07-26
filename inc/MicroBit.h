@@ -28,6 +28,8 @@ DEALINGS IN THE SOFTWARE.
 
 #include "mbed.h"
 
+#include <arm_compat.h>
+
 #include "MicroBitConfig.h"
 #include "MicroBitHeapAllocator.h"
 #include "MicroBitPanic.h"
